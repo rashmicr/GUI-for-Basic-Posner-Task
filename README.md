@@ -10,4 +10,4 @@ Open guiposner.m in matlab and execute the code which will start GUI. Start butt
 
 Enter the number of trials and subject names to save files in excel and .Mat formats.
 
-Once the trails are completed all the user response will be saved in excel and .mat formats in the current workin directory
+Once the trails are completed all the user response will be saved in excel and .mat formats in the current working directory
